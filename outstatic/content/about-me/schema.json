@@ -1,5 +1,13 @@
 {
   "title": "about-me",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "title": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Title"
+    }
+  }
 }
