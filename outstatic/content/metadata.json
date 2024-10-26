@@ -1,6 +1,6 @@
 {
-  "commit": "10ba51a5e5a53281a4f14837d4eefd225af55ef9",
-  "generated": "2024-10-26T17:24:26.510Z",
+  "commit": "3a65b26073a22510f7652d8645c86dbb205a5163",
+  "generated": "2024-10-26T17:24:46.297Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,42 +19,6 @@
       "slug": "my-portfolio",
       "status": "published",
       "title": "My portfolio"
-    },
-    {
-      "__outstatic": {
-        "commit": "477c69adb7d282a1e42389c1147b4ce5c99e476d",
-        "hash": "3988491412",
-        "path": "outstatic/content/about-me/about-me.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/180249549?v=4"
-      },
-      "collection": "about-me",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-10-26T17:47:12.231Z",
-      "slug": "about-me",
-      "status": "draft",
-      "title": "About Me"
-    },
-    {
-      "__outstatic": {
-        "commit": "10ba51a5e5a53281a4f14837d4eefd225af55ef9",
-        "hash": "3960230665",
-        "path": "outstatic/content/about-me/test.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/180249549?v=4"
-      },
-      "collection": "about-me",
-      "coverImage": "",
-      "description": "Test",
-      "publishedAt": "2024-10-26T18:11:49.957Z",
-      "slug": "test",
-      "status": "draft",
-      "title": "Test"
     }
   ]
 }
