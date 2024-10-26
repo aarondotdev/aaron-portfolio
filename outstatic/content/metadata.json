@@ -1,0 +1,42 @@
+{
+  "commit": "62a1ed2e560510c53114b0d52a318ee3ed5fb3db",
+  "generated": "Sat, 26 Oct 2024 17:23:02 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "c9f1e014cd693c7a87b71435b260f470a8077cd4",
+        "hash": "1310364231",
+        "path": "outstatic/content/projects/my-portfolio.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/180249549?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-10-26T18:07:59.519Z",
+      "slug": "my-portfolio",
+      "status": "published",
+      "title": "My portfolio"
+    },
+    {
+      "__outstatic": {
+        "commit": "477c69adb7d282a1e42389c1147b4ce5c99e476d",
+        "hash": "3988491412",
+        "path": "outstatic/content/about-me/about-me.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/180249549?v=4"
+      },
+      "collection": "about-me",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-10-26T17:47:12.231Z",
+      "slug": "about-me",
+      "status": "draft",
+      "title": "About Me"
+    }
+  ]
+}
