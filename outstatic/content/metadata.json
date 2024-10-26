@@ -1,6 +1,6 @@
 {
-  "commit": "62a1ed2e560510c53114b0d52a318ee3ed5fb3db",
-  "generated": "Sat, 26 Oct 2024 17:23:06 GMT",
+  "commit": "b0274c16ffbccd71c728c6383e13ad16ad31df4d",
+  "generated": "2024-10-26T17:24:14.792Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "about-me",
       "status": "draft",
       "title": "About Me"
+    },
+    {
+      "__outstatic": {
+        "commit": "b0274c16ffbccd71c728c6383e13ad16ad31df4d",
+        "hash": "3960230665",
+        "path": "outstatic/content/about-me/test.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/180249549?v=4"
+      },
+      "collection": "about-me",
+      "coverImage": "",
+      "description": "Test",
+      "publishedAt": "2024-10-26T18:11:49.957Z",
+      "slug": "test",
+      "status": "draft",
+      "title": "Test"
     }
   ]
 }
