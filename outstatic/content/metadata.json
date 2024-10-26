@@ -1,6 +1,6 @@
 {
-  "commit": "6ddd515ebabbf48ec1d1772373b59124c7801045",
-  "generated": "2024-10-26T17:28:39.663Z",
+  "commit": "25b084c050d6cb471f176c25c04bb9318526ed07",
+  "generated": "2024-10-26T17:30:11.038Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,6 +20,25 @@
       "slug": "my-portfolio",
       "status": "draft",
       "title": "My Portfolio"
+    },
+    {
+      "__outstatic": {
+        "commit": "25b084c050d6cb471f176c25c04bb9318526ed07",
+        "hash": "24076289",
+        "path": "outstatic/content/projects-fields/cage-system.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/180249549?v=4"
+      },
+      "collection": "projects-fields",
+      "coverImage": "",
+      "description": "My first betrnk project",
+      "image": "test",
+      "publishedAt": "2024-10-26T18:17:20.137Z",
+      "slug": "cage-system",
+      "status": "draft",
+      "title": "Cage System"
     }
   ]
 }
