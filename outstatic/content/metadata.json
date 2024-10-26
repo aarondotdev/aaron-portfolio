@@ -1,6 +1,25 @@
 {
-  "commit": "ebab6eefcc835a3e4d2d72dbcb9d9ec97479057c",
-  "generated": "2024-10-26T17:25:55.621Z",
+  "commit": "6ddd515ebabbf48ec1d1772373b59124c7801045",
+  "generated": "2024-10-26T17:28:39.663Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "6ddd515ebabbf48ec1d1772373b59124c7801045",
+        "hash": "364371342",
+        "path": "outstatic/content/projects-fields/my-portfolio.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/180249549?v=4"
+      },
+      "collection": "projects-fields",
+      "coverImage": "",
+      "description": "My portfolio made with otstatic",
+      "image": "httpL//localhost:3000",
+      "publishedAt": "2024-10-26T18:15:24.521Z",
+      "slug": "my-portfolio",
+      "status": "draft",
+      "title": "My Portfolio"
+    }
   ]
 }
