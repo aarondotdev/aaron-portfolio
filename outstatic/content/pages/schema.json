@@ -1,0 +1,13 @@
+{
+  "title": "pages",
+  "type": "object",
+  "properties": {
+    "test": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "test"
+    }
+  }
+}
