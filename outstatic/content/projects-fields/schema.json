@@ -1,0 +1,27 @@
+{
+  "title": "projects-fields",
+  "type": "object",
+  "properties": {
+    "title": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "title"
+    },
+    "description": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Description"
+    },
+    "image": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Image"
+    }
+  }
+}
