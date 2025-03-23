@@ -10,5 +10,3 @@ coverImage: ''
 image: 'httpL//localhost:3000'
 publishedAt: '2024-10-26T18:15:24.521Z'
 ---
-
-My portfolio made with otstaticasdasd
